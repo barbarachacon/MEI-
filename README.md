@@ -3,7 +3,7 @@
 
 ## Desenvolvido por
 - Ana Luiza
-- Barbara Chacon
+- Bárbara Chacon
 - Bruna Lopez
 - Felipe de Souza
 - Juan Pablo
